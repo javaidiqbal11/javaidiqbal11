@@ -4,7 +4,7 @@
 **javaidiqbal11/javaidiqbal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I have 8+ years of experience in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. After completing my Master's (MS) in Computer Science from COMSATS University Pakistan. I have started work as a Researcher and Developer at JTech Pvt Ltd Pakistan, DoctorAI LLC USA.
+I have 8+ years of experience in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning. After completing my Master's (MS) in Computer Science from COMSATS University Pakistan and Ph.D from The Superior University Lahore, Pakistan. I have started work as a Researcher and Developer at JTech Pvt Ltd Pakistan, DoctorAI LLC USA.
 
 ### Detailed Experience:
 - Building, Testing Machine Learning and Deep Learning Models
@@ -19,6 +19,7 @@ I have 8+ years of experience in Artificial Intelligence, Data Science, Machine 
 - Building data analysis APIs
 - Strong math and statistics background
 - LLM model development and training for different domain
+- LangChain, LangGraph for multiple applications
 - Chatbots for multilingual
 ### Domains:
 - Healthcare
