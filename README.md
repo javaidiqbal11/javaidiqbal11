@@ -28,8 +28,8 @@ I have 8+ years of experience in Artificial Intelligence, Data Science, Machine 
 - E-Commerce
 - Social Media 
 ### Skills:
-- Languages/Technologies: Python, R, MATLAB
-- Frameworks: TensorFlow, PyTorch, Keras, Django
+- Languages/Technologies: Python, R, MATLAB, Java
+- Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, etc.
 - DB/Storing: MySQL, MongoDB, SQLite
 - Version Control: GIT, Mercurial, SVN
