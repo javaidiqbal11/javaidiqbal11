@@ -11,5 +11,5 @@
 - 📫 How to reach me: [Contact Information]
 - ⚡ Fun fact: [Fun Fact]
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal1&show_icons=true)
 
