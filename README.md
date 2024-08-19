@@ -11,5 +11,8 @@
 - 📫 How to reach me: [Contact Information]
 - ⚡ Fun fact: [Fun Fact]
 
+
+Javaid Iqbal
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
 
