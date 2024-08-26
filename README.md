@@ -7,8 +7,8 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, and Dee
 
 ### Detailed Experience:
 - Designing, Building, Testing, Otimizing Machine Learning and Deep Learning Models
+- Text, Audio, Image and Video Data Processing Systems
 - Natural Language Processing Based Applications
-- Text, Audio, Image and Video Data Processing Systems 
 - Digital Image Processing Applications
 - Computer Vision Applications
 - Leading projects with Machine Learning and Analytics background
