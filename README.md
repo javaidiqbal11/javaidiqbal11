@@ -3,23 +3,21 @@
 **javaidiqbal11/javaidiqbal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-He has over 8 years of experience in AI, Data Science, Machine Learning, and Deep Learning. He earned his BS (CS), MS (CS) in Computer Science from COMSATS University Pakistan and Ph.D. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan.
+He has over 8 years of experience in AI, Data Science, Machine Learning, and Deep Learning. He earned his BS (CS), MS (CS) in Computer Science from COMSATS University Pakistan and Ph.D. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan.
 
 ### Detailed Experience:
-- Building, Testing Machine Learning and Deep Learning Models
+- Designing, Building, Testing, Otimizing Machine Learning and Deep Learning Models
 - Natural Language Processing Based Applications
-- Speech Recognition and Speech Generation
-- Integrating machine learning algorithms
+- Text, Audio, Image and Video Data Processing Systems 
 - Digital Image Processing Applications
 - Computer Vision Applications
 - Leading projects with Machine Learning and Analytics background
-- Data Analysis and Prediction Systems
+- Data Analysis, Recommender Engine and Prediction Systems
 - Time Series Analysis Systems
-- Building data analysis APIs
-- Strong math and statistics background
-- LLM model development and training for different domain
-- LangChain, LangGraph for multiple applications
-- Chatbots for multilingual
+- Building APIs using Django and FastAPI 
+- LLM model development and training for different ChatBots
+- LangChain, LangGraph for multiple agents Applications
+- Multilingual Chatbots using LangChain 
 ### Domains:
 - Healthcare
 - Education
