@@ -11,21 +11,20 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, and Dee
 - Natural Language Processing Based Applications
 - Digital Image Processing Applications
 - Computer Vision Applications
-- Leading projects with Machine Learning and Analytics background
 - Data Analysis, Recommender Engine and Prediction Systems
-- Time Series Analysis Systems
+- Data Analytics and Time Series Analysis Systems 
 - Building APIs using Django and FastAPI 
 - LLM model development and training for different ChatBots
 - LangChain, LangGraph for multiple agents Applications
 - Multilingual Chatbots using LangChain 
 ### Domains:
 - Healthcare
-- Education
 - Business
+- Education
 - E-Commerce
 - Social Media 
 ### Skills:
-- Languages/Technologies: Python, R, MATLAB, Java
+- Languages/Technologies: Python, R, MATLAB, JAVA
 - Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, etc.
 - DB/Storing: MySQL, MongoDB, SQLite
