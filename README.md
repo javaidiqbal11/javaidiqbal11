@@ -24,21 +24,17 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, and Dee
 - E-Commerce
 - Social Media 
 ### Skills:
-- Languages/Technologies: Python, R, MATLAB, JAVA
+- Languages/Technologies: Python, C++, R, MATLAB, JAVA
 - Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, etc.
 - DB/Storing: MySQL, MongoDB, SQLite
 - Version Control: GIT, Mercurial, SVN
-- Analysis: Statistics, Calculus, SPSS, Classification/Clustering, Machine Learning, Deep Learning
-- Methodologies: Scrum, TDD
+- Methodologies: Scrum, TDD, Ontezo (AI, Agile)
 ### Others:
 - AWS experienced user
-- Microsoft Azure
+- Microsoft Azure, IBM Certified in Deep Learning Data Science 
 - Google Cloud Engine advanced user
-- Google Data Studio
 - Kaggle experienced
-- IBM Certified in Deep Learning and Data Science Projects
-
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
 
