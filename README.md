@@ -6,7 +6,7 @@
 He has over 8 years of experience in AI, Data Science, Machine Learning, and Deep Learning. He earned his BS (CS), MS (CS) in Computer Science from COMSATS University Pakistan and Ph.D. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan.
 
 ### Detailed Experience:
-- Designing, Building, Testing, Otimizing Machine Learning and Deep Learning Models
+- Designing, Building, Testing, Optimizing Machine Learning and Deep Learning Models
 - Text, Audio, Image and Video Data Processing Systems
 - Natural Language Processing Based Applications
 - Digital Image Processing Applications
