@@ -3,20 +3,20 @@
 **javaidiqbal11/javaidiqbal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-He has over 8 years of experience in AI, Data Science, Machine Learning, and Deep Learning. He earned his BS (CS), MS (CS) in Computer Science from COMSATS University Pakistan and Ph.D. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan.
+He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, LangChain and Deep Learning. He earned his BS(CS), MS(CS) in Computer Science from COMSATS University Pakistan and Ph.D. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan.
 
 ### Detailed Experience:
 - Designing, Building, Testing, Optimizing Machine Learning and Deep Learning Models
 - Text, Audio, Image and Video Data Processing Systems
-- Natural Language Processing Based Applications
+- Linguistics and Natural Language Processing Applications
 - Digital Image Processing Applications
 - Computer Vision Applications
-- Data Analysis, Recommender Engine and Prediction Systems
+- Recommender Engine and Prediction Systems
 - Data Analytics and Time Series Analysis Systems 
 - Building APIs using Django and FastAPI 
-- LLM model development and training for different ChatBots
+- LLM model development for different ChatBots
 - LangChain, LangGraph for multiple agents Applications
-- Multilingual Chatbots using LangChain 
+- Multilingual Chatbots using LangChain Framewok  
 ### Domains:
 - Healthcare
 - Business
@@ -27,7 +27,7 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, and Dee
 - Languages/Technologies: Python, C++, R, MATLAB, JAVA
 - Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, etc.
-- DB/Storing: MySQL, MongoDB, SQLite
+- DB/Storing: MySQL, MongoDB, SQLite, Qdrant 
 - Version Control: GIT, Mercurial, SVN
 - Methodologies: Scrum, TDD, Ontezo (AI, Agile)
 ### Others:
