@@ -22,6 +22,7 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, La
 - Business
 - Education
 - E-Commerce
+- Services 
 - Social Media 
 ### Skills:
 - Languages/Technologies: Python, C++, R, MATLAB, JAVA
