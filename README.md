@@ -29,7 +29,7 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, La
 - Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
 - DB/Storing: MySQL, MongoDB, SQLite, Qdrant, Pinecone 
-- Version Control: GIT, Mercurial, SVN
+- Version Control: GitHub, GIT, Mercurial, SVN
 - Methodologies: Scrum, TDD, Ontezo (AI, Agile)
 - Deployment: Web Apps, Python Apps deployment on server 
 ### Others:
