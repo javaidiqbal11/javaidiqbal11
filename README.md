@@ -16,7 +16,8 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, La
 - Building APIs using Django and FastAPI 
 - LLM model development for different ChatBots
 - LangChain, LangGraph for multiple agents Applications
-- Multilingual Chatbots using LangChain Framewok  
+- Multilingual Chatbots using LangChain Framewok
+- Machine Learning demo using Gradio, FastAPI and FlaskAPI 
 ### Domains:
 - Healthcare
 - Business
