@@ -32,7 +32,7 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, La
 - DB/Storing: MySQL, MongoDB, SQLite, Qdrant, Pinecone 
 - Version Control: GitHub, GIT, Mercurial, SVN
 - Methodologies: Scrum, TDD, Ontezo (AI, Agile)
-- Deployment: Web Apps, Python Apps deployment on server 
+- Deployment: Gradio, FastAPI, and FlaskAPI
 ### Others:
 - AWS experienced user
 - Microsoft Azure, IBM Certified in Deep Learning Data Science 
