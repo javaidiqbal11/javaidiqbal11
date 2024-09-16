@@ -17,6 +17,7 @@ He has over 8 years of experience in AI, Data Science, Machine Learning, LLM, La
 - LLM model development for different ChatBots
 - LangChain, LangGraph for multiple agents Applications
 - Multilingual Chatbots using LangChain Framewok
+- Generative AI, Art AI Applications 
 - Machine Learning demo using Gradio, FastAPI and FlaskAPI 
 ### Domains:
 - Healthcare
