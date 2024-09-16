@@ -28,16 +28,16 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Social Media 
 ### Skills:
 - Languages/Technologies: `Python`, C++, R, MATLAB, JAVA
-- Frameworks: TensorFlow, PyTorch, Keras, Django, LangChain
+- Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
-- DB/Storing: MySQL, MongoDB, SQLite, Qdrant, Pinecone 
-- Version Control: `GitHub`, GIT, Mercurial, SVN
-- Methodologies: Scrum, TDD, `Ontezo` (AI, Agile)
-- Deployment: Gradio, FastAPI, and FlaskAPI
+- DB/Storing: `MySQL`, `MongoDB`, `SQLite`, `Qdrant`, `Pinecone` 
+- Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
+- Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
+- Deployment: `Gradio`, `FastAPI`, and `FlaskAPI`
 ### Others:
 - `AWS` experienced user
-- Microsoft Azure, IBM Certified in Deep Learning Data Science 
-- Google Cloud Engine advanced user
+- Microsoft `Azure`, `IBM` Certified in Deep Learning Data Science 
+- `Google Cloud` Engine advanced user
 - `Kaggle` experienced
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
