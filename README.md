@@ -13,12 +13,12 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, D
 - Computer Vision Applications
 - Recommender Engine and Prediction Systems
 - Data Analytics and Time Series Analysis Systems 
-- Building APIs using Django and FastAPI 
+- Building APIs using Django, FastAPI and FlaskAPI 
 - LLM model development for different ChatBots
 - LangChain, LangGraph for multiple agents Applications
 - Multilingual Chatbots using LangChain Framewok
 - Generative AI, Art AI Applications 
-- Machine Learning demo using Gradio, FastAPI and FlaskAPI 
+- Machine Learning demos on web using Gradio, Streamllit 
 ### Domains:
 - Healthcare
 - Business
