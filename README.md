@@ -6,19 +6,19 @@
 He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, Deep Learning, `NLP`, `Image Processing`, `Computer Vision`,`LLM`, `LangChain`, and `Generative AI`. He earned his `BS(CS)`, `MS(CS)` in Computer Science from COMSATS University Pakistan and `Ph.D`. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan. 
 
 ### Detailed Experience:
-- Designing, Building, Testing, Optimizing Machine Learning and Deep Learning Models
-- Text, Audio, Image and Video Data Processing Systems
-- Linguistics and Natural Language Processing Applications
-- Digital Image Processing Applications
-- Computer Vision Applications
-- Recommender Engine and Prediction Systems
-- Data Analytics and Time Series Analysis Systems 
-- Building APIs using Django, FastAPI and FlaskAPI 
-- LLM model development for different ChatBots
-- LangChain, LangGraph for multiple agents Applications
-- Multilingual Chatbots using LangChain Framewok
-- Generative AI, Art AI Applications 
-- Machine Learning demos on web using Gradio, Streamllit 
+- Designing, developing, testing, and optimizing machine learning and deep learning models
+- Processing systems for text, audio, image, and video data
+- Linguistics and natural language processing (NLP) applications
+- Digital image processing solutions
+- Computer vision applications
+- Recommender systems and predictive analytics
+- Data analytics and time series analysis solutions
+- Building APIs with Django, FastAPI, and Flask
+- Developing LLM models for various chatbots
+- Utilizing LangChain and LangGraph for multi-agent applications
+- Creating multilingual chatbots using the LangChain framework
+- Generative AI and AI-driven art applications
+- Web-based Machine Learning demonstrations using Gradio and Streamlit.
 ### Domains:
 - Healthcare
 - Business
@@ -27,13 +27,13 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, D
 - Services 
 - Social Media 
 ### Skills:
-- Languages/Technologies: `Python`, C++, R, MATLAB, JAVA
+- Languages/Technologies: `Python`, C++, JAVA, JavaScript, PHP, R, MATLAB
 - Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
 - DB/Storing: `MySQL`, `MongoDB`, `SQLite`, `Qdrant`, `Pinecone` 
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
-- Deployment: `Gradio`, `FastAPI`, and `FlaskAPI`
+- Deployment: `Dockr`, `AWS`, `NGNIX`
 ### Others:
 - `AWS` experienced user
 - Microsoft `Azure`, `IBM` Certified in Deep Learning Data Science 
