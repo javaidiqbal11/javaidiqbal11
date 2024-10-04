@@ -18,6 +18,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, D
 - Utilizing LangChain and LangGraph for multi-agent applications
 - Creating multilingual chatbots using the LangChain framework
 - Generative AI and AI-driven art applications
+- AI Avatar using 3D Engine for different domains 
 - Web-based Machine Learning demonstrations using Gradio and Streamlit.
 ### Domains:
 - Healthcare
