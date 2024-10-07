@@ -37,7 +37,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, D
 - Deployment: `Dockr`, `AWS`, `NGNIX`
 ### Others:
 - `AWS` experienced user
-- Microsoft `Azure`, `IBM` Certified in Deep Learning Data Science 
+- `Microsoft Azure`, `IBM` Certified in Deep Learning Data Science 
 - `Google Cloud` Engine advanced user
 - `Kaggle` experienced
 
