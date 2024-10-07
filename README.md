@@ -35,11 +35,11 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, D
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
 - Deployment: `Dockr`, `AWS`, `NGNIX`
-### Others:
-- `AWS` experienced user
-- `Microsoft Azure`, `IBM` Certified in Deep Learning Data Science 
-- `Google Cloud` Engine advanced user
-- `Kaggle` experienced
+### Cloud User Experience:
+- `Amazon Web Service (AWS)`
+- `Microsoft Azure`
+- `Google Cloud`
+- `Kaggle`
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
 
