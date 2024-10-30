@@ -29,7 +29,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Services 
 - Social Media
 - Environment 
-### Skills: :cyclone:
+### Skills: :rocket:
 - Languages/Technologies: `Python`, C++, JAVA, JavaScript, PHP, R, MATLAB
 - Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `HeyGen`
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
@@ -37,7 +37,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
 - Deployment: `Dockr`, `AWS`, `NGNIX`
-### Cloud User Experience:
+### Cloud User Experience: :cyclone:
 - `Amazon Web Service (AWS)`
 - `Microsoft Azure`
 - `Google Cloud`
