@@ -29,7 +29,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Services 
 - Social Media
 - Environment 
-### Skills:
+### Skills: :cyclone:
 - Languages/Technologies: `Python`, C++, JAVA, JavaScript, PHP, R, MATLAB
 - Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `HeyGen`
 - Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
