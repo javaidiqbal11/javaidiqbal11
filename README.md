@@ -37,7 +37,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
 - Deployment: `Dockr`, `AWS`, `NGNIX`
-### Cloud User Experience: :cyclone:
+### Cloud User Experience: :globe_with_meridians:
 - `Amazon Web Service (AWS)`
 - `Microsoft Azure`
 - `Google Cloud`
