@@ -28,7 +28,8 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - E-Commerce
 - Services 
 - Social Media
-- Environment 
+- Environment
+- Food
 ### Skills: :rocket:
 - Languages/Technologies: `Python`, C++, JAVA, JavaScript, PHP, R, MATLAB
 - Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `HeyGen`
