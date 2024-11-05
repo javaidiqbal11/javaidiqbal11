@@ -19,8 +19,8 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Creating multilingual chatbots using the LangChain framework
 - Generative AI and AI-driven art applications
 - AI Avatar using 3D Engine for different domains 
-- Web-based Machine Learning demonstrations using Gradio and Streamlit.
-- HeyGen Avatar for Chef Corner. 
+- Web-based Machine Learning demonstrations using Gradio and Streamlit
+- Customized HeyGen Avatar for Chef Corner 
 ### Domains: :boom:
 - Healthcare
 - Business
