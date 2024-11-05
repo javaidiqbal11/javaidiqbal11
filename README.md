@@ -13,7 +13,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - Computer vision applications
 - Recommender systems and predictive analytics
 - Data analytics and time series analysis solutions
-- Building APIs with Django, FastAPI, and Flask
+- Building APIs with Django, FastAPI, and FlaskApp
 - Developing LLM models for various chatbots
 - Utilizing LangChain and LangGraph for multi-agent applications
 - Creating multilingual chatbots using the LangChain framework
