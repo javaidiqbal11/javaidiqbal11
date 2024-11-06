@@ -33,7 +33,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 ### Skills: :rocket:
 - Languages/Technologies: `Python`, C++, JavaScript, PHP, R, MATLAB
 - Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `HeyGen`
-- Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, and many more. 
+- Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, Tkinter, and many more. 
 - DB/Storing: `MySQL`, `MongoDB`, `SQLite`, `Qdrant`, `Pinecone` 
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
