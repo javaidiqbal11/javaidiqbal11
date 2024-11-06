@@ -42,7 +42,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - `Amazon Web Services (AWS)`
 - `Microsoft Azure`
 - `Google Cloud`
-- `Kaggle`
+- `Kaggle User`
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
 
