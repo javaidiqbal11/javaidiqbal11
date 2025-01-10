@@ -50,5 +50,6 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&theme=algolia&show_icons=true)](https://github.com/javaidiqbal11)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=javaidiqbal11)](https://github.com/javaidiqbal11/github-readme-stats)
 
