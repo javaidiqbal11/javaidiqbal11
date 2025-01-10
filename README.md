@@ -48,7 +48,5 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 - `Google Cloud`
 - `Kaggle User`
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=javaidiqbal11)
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=javaidiqbal11&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javaidiqbal11&hide=html&layout=compact&theme=radical) 
 
