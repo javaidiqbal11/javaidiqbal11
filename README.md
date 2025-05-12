@@ -8,7 +8,7 @@ He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `
 ---
 ### [Javaid's Upwork Profile](https://www.upwork.com/freelancers/~01ae9aed738d792c5d) ⭐
 ---
-### [Video Introduction](https://www.loom.com/share/6b6838c80c4d45de936f4934edae037e?sid=6b9c6c65-f873-4467-af6d-1e9ceefcdd8b)
+### [Video Introduction](https://www.loom.com/share/6b6838c80c4d45de936f4934edae037e?sid=6b9c6c65-f873-4467-af6d-1e9ceefcdd8b) :star
 ---
 ### Detailed Experience: :sparkles:
 - Designing, developing, testing, deploying, and optimizing machine learning and deep learning models
