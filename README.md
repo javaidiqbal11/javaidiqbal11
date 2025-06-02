@@ -3,7 +3,7 @@
 **javaidiqbal11/javaidiqbal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-He has over 8 years of experience in `AI`, `Data Science`, `Machine Learning`, `Deep Learning`, `NLP`, `Image Processing`, `Computer Vision`,`LLM`, `LangChain`, and `Generative AI`. He earned his `BS(CS)` in Computer Science from COMSATS University Islamabad, Pakistan, `MS(CS)` in Computer Science from COMSATS University Islamabad, Pakistan and `Ph.D`. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan. 
+He has over 9 years of experience in `AI`, `Data Science`, `Machine Learning`, `Deep Learning`, `NLP`, `Image Processing`, `Computer Vision`,`LLM`, `LangChain`, and `Generative AI`. He earned his `BS(CS)` in Computer Science from COMSATS University Islamabad, Pakistan, `MS(CS)` in Computer Science from COMSATS University Islamabad, Pakistan and `Ph.D`. in Computer Science from The Superior University Pakistan. He has worked as a Researcher and Developer at Upwork, JTech Pvt Ltd Pakistan, DoctorAI LLC USA, and AB {Ark} Pvt Ltd Pakistan. 
 
 ---
 ### [Javaid's Upwork Profile](https://www.upwork.com/freelancers/~01ae9aed738d792c5d) ⭐
