@@ -37,14 +37,13 @@ He has over 9 years of experience in `AI`, `Generative AI`, `Data Science`, `Mac
 - Food
 - BPO 
 ### Skills: :rocket:
-- Languages/Technologies: `Python`, C++, R, MATLAB
-- Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `HeyGen`
-- Libraries: Numpy, Scikit-Learn, Matplotlib, SciPy, Pandas, NLTK, LightGBM, XGBoost, Tkinter, and many more. 
-- DB/Storing: `MySQL`, `MongoDB`, `SQLite`, `Qdrant`, `Pinecone` 
+- Programming Languages: `Python`, C++, R, MATLAB
+- Frameworks: `TensorFlow`, `PyTorch`, `Keras`, `Django`, `LangChain`, `LangGraph`, `llamaIndex`, `HeyGen`
+- Databases: `MySQL`, `MongoDB`, `SQLite`, `Qdrant`, `Pinecone`, `Milvus`, `ChromaDB`
 - Version Control: `GitHub`, `GIT`, `Mercurial`, `SVN`
 - Methodologies: `Scrum`, `TDD`, `Ontezo` (AI, Agile)
-- Deployment: `Dockr`, `AWS`, `NGNIX`
-### Cloud User Experience: :globe_with_meridians:
+- Deployment: `Docker`, `AWS`, `NGINX`, `Ngrok`
+### Cloud User Experience:  :globe_with_meridians:
 - `Amazon Web Services (AWS)`
 - `Microsoft Azure`
 - `Google Cloud`
