@@ -13,7 +13,7 @@ He has vast experience in `AI`, `Generative AI`, `Agentic AI`, `Data Science`, `
 ### Detailed Experience: :sparkles:
 - Designing, developing, testing, deploying, and optimizing machine learning and deep learning models
 - Processing systems for text, audio, image, and video data
-- - Generative AI and AI-driven art applications
+- Generative AI and AI-driven art applications
 - AI Avatar using 3D Engine for different domains
 - Agentic AI for the Agents Development and Design 
 - Linguistics and natural language processing (NLP) applications
